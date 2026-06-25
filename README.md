@@ -1,9 +1,11 @@
 <!-- BANNER ANIMADO NO TOPO -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Isa%20Cic%C3%ADlio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Python%20Developer%20%7C%20AI%20%26%20Automation&descSize=18&descAlignY=58" width="100%"/>
+
 <!-- TEXTO QUE "DIGITA" SOZINHO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-vinda+ao+meu+perfil!+%F0%9F%91%8B;Apaixonada+por+Python+e+Automa%C3%A7%C3%A3o;Em+busca+de+oportunidades+em+Dev%2C+Dados+e+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-Vindo+ao+meu+perfil!+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,17 +14,13 @@
 
 ## 🚀 Sobre mim
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
 - 🎓 Estudante de **Ciência da Computação**
 - 🐍 Desenvolvedora **Python** com foco em **Automação, Dados e IA**
 - 🤖 Construindo projetos que resolvem problemas reais
 - 🌱 Atualmente aprofundando em **RPA, análise de dados e machine learning**
 - 💼 **Aberta a oportunidades** de estágio e primeira vaga na área de tecnologia
-- 📍 Sao Paulo - Brasil
+- 📍 Brasil
 - ⚡ Curiosidade: adoro transformar tarefas repetitivas em código que trabalha por mim
-
-<br clear="right"/>
 
 ---
 
@@ -57,25 +55,6 @@
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isacicilio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacicilio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=isacicilio&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=isacicilio&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-
-</div>
-
----
-
 ## 🌱 Minha jornada de aprendizado
 
 ```text
@@ -95,7 +74,7 @@ Machine Learning / IA          ███░░░░░░░░░  Próximo pa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isacicilio)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isacicilio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isa.cicilio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 </div>
 
