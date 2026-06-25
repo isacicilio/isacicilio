@@ -1,8 +1,6 @@
 <!-- BANNER ANIMADO NO TOPO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Isa%20Cic%C3%ADlio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Python%20Developer%20%7C%20AI%20%26%20Automation&descSize=18&descAlignY=58" width="100%"/>
-
 <!-- TEXTO QUE "DIGITA" SOZINHO -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-vinda+ao+meu+perfil!+%F0%9F%91%8B;Apaixonada+por+Python+e+Automa%C3%A7%C3%A3o;Em+busca+de+oportunidades+em+Dev%2C+Dados+e+IA" alt="Typing SVG" />
@@ -21,7 +19,7 @@
 - 🤖 Construindo projetos que resolvem problemas reais
 - 🌱 Atualmente aprofundando em **RPA, análise de dados e machine learning**
 - 💼 **Aberta a oportunidades** de estágio e primeira vaga na área de tecnologia
-- 📍 Brasil
+- 📍 Sao Paulo - Brasil
 - ⚡ Curiosidade: adoro transformar tarefas repetitivas em código que trabalha por mim
 
 <br clear="right"/>
