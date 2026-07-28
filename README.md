@@ -1,80 +1,656 @@
-<!-- BANNER ANIMADO NO TOPO -->
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE README                   -->
+<!--                  Created with 💜 by Byte                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Isa%20Cic%C3%ADlio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Python%20Developer%20%7C%20AI%20%26%20Automation&descSize=18&descAlignY=58" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d0d0d,30:1b1035,60:5b21b6,100:9d174d&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38"/>
 
-<!-- TEXTO QUE "DIGITA" SOZINHO -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-Vindo+ao+meu+perfil!+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
+</div>
+
+<div align="center">
+
+# 🐈‍⬛ Byte is Online...
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=A855F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Automation;Python+Developer;Data+Analytics;Always+Learning+Something+New;Fueled+by+Coffee+and+Metal"/>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Estudante de **Ciência da Computação**
-- 🐍 Desenvolvedora **Python** com foco em **Automação, Dados e IA**
-- 🤖 Construindo projetos que resolvem problemas reais
-- 🌱 Atualmente aprofundando em **RPA, análise de dados e machine learning**
-- 💼 **Aberta a oportunidades** de estágio e primeira vaga na área de tecnologia
-- 📍 Brasil
-- ⚡ Curiosidade: adoro transformar tarefas repetitivas em código que trabalha por mim
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🐈‍⬛ Meet Byte
+
+<img width="260" src="https://placehold.co/260x260/111111/A855F7?text=BYTE"/>
 
 </div>
 
----
+Byte é minha parceira oficial de programação.
 
-## 📌 Projeto em destaque
+Especialidades:
 
-<div align="center">
-
-<a href="https://github.com/isacicilio/automacao-documentos-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isacicilio&repo=automacao-documentos-python&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 📂 **Automação Inteligente de Gestão Documental** — sistema modular em Python que organiza, processa e analisa documentos automaticamente, com logs, leitura de PDFs e geração de relatórios.
+- ☕ Café
+- 🐍 Python
+- 🤖 Inteligência Artificial
+- ⚡ Automação
+- 📊 Dados
+- 🎸 Metal
 
 ---
 
-## 🌱 Minha jornada de aprendizado
+# 👋 Who Am I?
+
+Olá!
+
+Sou uma desenvolvedora apaixonada por tecnologia, automação e Inteligência Artificial.
+
+Gosto de transformar processos demorados em soluções inteligentes utilizando Python, IA, análise de dados e integrações.
+
+Meu foco é construir aplicações que realmente resolvem problemas, desde pequenos scripts até agentes inteligentes capazes de automatizar fluxos completos.
+
+Mais do que escrever código, gosto de entender o problema antes de pensar na solução.
+
+Atualmente estudo constantemente áreas como:
+
+- Inteligência Artificial
+- Machine Learning
+- Data Analytics
+- Engenharia de Software
+- Arquitetura de Sistemas
+- Automação
+- APIs
+- Cloud
+
+Sempre buscando construir projetos reais e aprender novas tecnologias.
+
+---
+
+# 🚀 Current Mission
 
 ```text
-Lógica de Programação          ███████████░  Concluído
-Python básico ao intermediário ████████░░░░  Em progresso
-Git & GitHub                   █████████░░░  Em progresso
-Análise de Dados (Pandas)      ██████░░░░░░  Estudando
-Automação / RPA                █████░░░░░░░  Estudando
-Machine Learning / IA          ███░░░░░░░░░  Próximo passo
+Artificial Intelligence
+
+█████████████████████░░░░░░░░ 70%
+
+Automation
+
+█████████████████████████░░░░ 82%
+
+Python
+
+██████████████████████████░░░ 90%
+
+Data Analytics
+
+████████████████████░░░░░░░░░ 68%
+
+Backend Development
+
+███████████████████████░░░░░░ 78%
+
+Cloud Computing
+
+███████████████░░░░░░░░░░░░░░ 45%
 ```
 
 ---
 
-## 📫 Vamos conversar?
+# ⚙️ Current Stack
+
+## Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=sql"/>
+
+</p>
+
+---
+
+## Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+---
+
+# 💻 Terminal
+
+```bash
+> boot
+
+Initializing Byte...
+
+█████████████████████████ 100%
+
+Loading Python...
+Loading AI modules...
+Loading Coffee...
+Loading Motivation...
+
+Status: READY
+
+Developer: Online
+Music: Playing
+Coffee: Full
+Errors: Probably...
+```
+
+---
+
+# 🧠 What I'm Building
+
+### 🤖 AI Agents
+
+Agentes inteligentes para automação de processos, análise de dados e produtividade.
+
+---
+
+### ⚡ Automation
+
+Automações utilizando Python, APIs, Webhooks e integração entre sistemas.
+
+---
+
+### 📊 Data Analytics
+
+Dashboards, ETL, visualização de dados e análise de indicadores.
+
+---
+
+### 🌐 Backend
+
+APIs robustas utilizando FastAPI, Flask e arquitetura escalável.
+
+---
+
+### ☁️ Cloud
+
+Projetos preparados para deploy e escalabilidade.
+
+---
+
+# 📂 Featured Projects
+
+## 🤖 AI Automation Hub
+
+Sistema para criação de agentes inteligentes.
+
+Tecnologias:
+
+- Python
+- FastAPI
+- OpenAI
+- PostgreSQL
+
+---
+
+## 📊 Analytics Dashboard
+
+Dashboard interativo para análise de indicadores.
+
+Tecnologias:
+
+- Python
+- Power BI
+- SQL
+
+---
+
+## ⚡ Workflow Automation
+
+Automação de tarefas repetitivas utilizando IA.
+
+Tecnologias:
+
+- Python
+- APIs
+- Selenium
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isacicilio)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isacicilio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isacicilio&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacicilio&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=isacicilio&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isacicilio&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎧 Currently Playing
+
+```text
+🎸 Pierce The Veil
+
+█████████████████████
+
+🎸 Korn
+
+██████████████████
+
+🎸 Sepultura
+
+██████████████████████
+
+🎸 Evanescence
+
+███████████████████
+
+🎸 Charlie Brown Jr.
+
+██████████████████
+
+🎸 Linkin Park
+
+████████████████████
+```
+
+---
+
+# ☕
+
+> "Good code is written once.
+>
+> Great code automates itself."
+
+— Byte 🐈‍⬛
+
+---
+
+# 🐈‍⬛ Byte Status
+
+```yaml
+Name: Byte
+
+Mood:
+  Curious
+
+Battery:
+  ████████████████ 98%
+
+Coffee:
+  ███████████████████ 100%
+
+Python:
+  ███████████████████
+
+Metal:
+  ███████████████████
+
+Bugs:
+  Never enough...
+```
+
+---
+
+# 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Data Engineering
+- Cloud Computing
+- Prompt Engineering
+- LLM Applications
+- Multi-Agent Systems
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=isacicilio&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<p><i>Every commit leaves a trail.</i></p>
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/isacicilio/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💻 My Setup
+
+```yaml
+OS:
+  Windows 11
+
+Editor:
+  VS Code
+
+Languages:
+  Python
+  JavaScript
+  TypeScript
+  SQL
+
+Database:
+  PostgreSQL
+  MySQL
+  SQLite
+
+Terminal:
+  PowerShell
+
+Coffee:
+  Always
+
+Music:
+  Metal
+```
+
+---
+
+# 🗺️ Roadmap
+
+```text
+Python                ████████████████████████
+
+Artificial Intelligence
+████████████████████░░░░
+
+Machine Learning
+█████████████████░░░░░░░
+
+LLMs
+██████████████████░░░░░░
+
+Backend
+██████████████████████░░
+
+Cloud
+██████████████░░░░░░░░░░
+
+DevOps
+██████████░░░░░░░░░░░░░░
+```
+
+---
+
+# 📅 Career Timeline
+
+```text
+2024
+
+Started programming
+↓
+
+Python
+
+↓
+
+Automation
+
+↓
+
+Backend
+
+↓
+
+Artificial Intelligence
+
+↓
+
+Data Analytics
+
+↓
+
+Building real-world projects
+
+↓
+
+Next stop...
+
+Software Engineer 🚀
+```
+
+---
+
+# 🤖 Byte Says
+
+> "If you can automate it...
+
+don't waste your life doing it twice."
+
+---
+
+> "Every bug is just undocumented behavior."
+
+---
+
+> "Coffee first.
+
+Deploy later."
+
+---
+
+> "Humans repeat.
+
+Python remembers."
+
+---
+
+# 📦 Current Goals
+
+- Build scalable AI applications
+- Deepen Machine Learning knowledge
+- Master cloud architecture
+- Contribute to open source
+- Create impactful software
+- Keep learning every day
+
+---
+
+# 🎯 Fun Facts
+
+- ☕ Coffee improves compile speed (probably).
+- 🎧 I code better with music.
+- 🐍 Python is my favorite language.
+- 🤖 I enjoy building AI agents.
+- ⚡ I love automating repetitive tasks.
+- 🌙 Most ideas appear late at night.
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/isacicilio">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:isa.cicilio@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/isacicilio">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🎵 Coding Playlist
+
+```
+▶ Pierce The Veil
+
+▶ Bring Me The Horizon
+
+▶ Bad Omens
+
+▶ Sleep Token
+
+▶ Linkin Park
+
+▶ Nirvana
+
+▶ Charlie Brown Jr.
+
+▶ Architects
+```
+
+---
+
+# 🌙 Night Mode
+
+```text
+Time
+
+23:58
+
+Coffee
+
+██████████████████████
+
+Motivation
+
+███████████████████░░
+
+Battery
+
+███████████████░░░░░░
+
+Brain
+
+Loading...
+```
+
+---
+
+# ⚡ System Status
+
+```bash
+$ whoami
+
+Python Developer
+
+AI Enthusiast
+
+Automation Lover
+
+Always Learning
+
+Status:
+
+ONLINE
+
+Byte:
+
+ONLINE
+
+Coffee:
+
+READY
+
+GitHub:
+
+CONNECTED
+```
+
+---
+
+<div align="center">
+
+## 🐈‍⬛ Byte's Final Message
+
+*"Stay curious.*
+
+*Build useful things.*
+
+*Never stop learning."*
 
 </div>
 
@@ -82,8 +658,6 @@ Machine Learning / IA          ███░░░░░░░░░  Próximo pa
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=isacicilio&style=for-the-badge&color=A371F7)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:111111,50:5B21B6,100:A855F7"/>
 
 </div>
