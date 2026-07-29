@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
 <!--                    GITHUB PROFILE README                   -->
-<!--                  Created with 💜 by Byte                  -->
+<!--                  Created with 💜 by ISA                   -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# 🐈‍⬛ Byte is Online...
+# 🐈‍⬛ Isa is Online...
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=A855F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Automation;Python+Developer;Data+Analytics;Always+Learning+Something+New;Fueled+by+Coffee+and+Metal"/>
 
@@ -20,14 +20,6 @@
 ---
 
 <div align="center">
-
-## 🐈‍⬛ Meet Byte
-
-<img width="260" src="https://placehold.co/260x260/111111/A855F7?text=BYTE"/>
-
-</div>
-
-Byte é minha parceira oficial de programação.
 
 Especialidades:
 
