@@ -636,7 +636,7 @@ CONNECTED
 
 <div align="center">
 
-## 🐈‍⬛ Byte's Final Message
+## 🐈‍⬛ Isa's Final Message
 
 *"Stay curious.*
 
