@@ -258,38 +258,6 @@ Tecnologias:
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isacicilio&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacicilio&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=isacicilio&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isacicilio&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🎧 Currently Playing
 
 ```text
